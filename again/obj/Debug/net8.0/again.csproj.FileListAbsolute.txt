@@ -1,0 +1,14 @@
+c:\Users\pjayd\Desktop\again\again\bin\Debug\net8.0\again.exe
+c:\Users\pjayd\Desktop\again\again\bin\Debug\net8.0\again.deps.json
+c:\Users\pjayd\Desktop\again\again\bin\Debug\net8.0\again.runtimeconfig.json
+c:\Users\pjayd\Desktop\again\again\bin\Debug\net8.0\again.dll
+c:\Users\pjayd\Desktop\again\again\bin\Debug\net8.0\again.pdb
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\again.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\again.AssemblyInfoInputs.cache
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\again.AssemblyInfo.cs
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\again.csproj.CoreCompileInputs.cache
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\again.dll
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\refint\again.dll
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\again.pdb
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\again.genruntimeconfig.cache
+c:\Users\pjayd\Desktop\again\again\obj\Debug\net8.0\ref\again.dll
